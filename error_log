@@ -1,0 +1,18 @@
+[10-Mar-2022 06:49:08 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 15
+[10-Mar-2022 06:49:27 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:28 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:29 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:29 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:30 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:30 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:31 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:32 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[10-Mar-2022 06:49:39 UTC] PHP Fatal error:  Cannot redeclare DosenModel::getData() in /home/u8756909/public_html/simak/application/models/DosenModel.php on line 14
+[29-Mar-2022 01:56:29 UTC] PHP Fatal error:  Cannot redeclare Nilai::input_nilai_aksi() in /home/u8756909/public_html/simak/application/controllers/admin/Nilai.php on line 133
+[19-Apr-2022 06:02:59 UTC] PHP Fatal error:  Cannot redeclare JadwaluasModel::insertData() in /home/u8756909/public_html/simak/application/models/JadwaluasModel.php on line 187
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(/home/u8756909/public_html/simak/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(): Failed opening '/home/u8756909/public_html/simak/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(/home/u8756909/public_html/simak/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(): Failed opening '/home/u8756909/public_html/simak/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(/home/u8756909/public_html/simak/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
+[10-May-2022 03:03:39 UTC] PHP Warning:  include(): Failed opening '/home/u8756909/public_html/simak/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u8756909/public_html/simak/system/core/Exceptions.php on line 268
